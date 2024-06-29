@@ -1,0 +1,21 @@
+.texto{
+    margin: 40px;
+    padding: 20px;
+}
+
+.paragrafo-padrão{
+    background-color: #F5F5F5;
+    
+}
+
+.paragrafo-2{
+    background-color: #F0CCE2;
+    
+}
+
+
+
+
+/* Espaçamento entre um parágrafo e outro de
+40px. -> Margin
+Espaçamento interno de 20px. O professor ele fez mais uma classe, ele aparentemente gosta de deixar o código o mais autoexplicativo/organizado possível ->Padding */ 
